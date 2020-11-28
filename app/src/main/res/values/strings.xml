@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">contextual_menu</string>
+    <string name="intents">An Intent is Description of an operation to be performed Messaging object used to request an action from another app component via the Android system.</string>
+    <string name="intent1">An Intent can be used to: start an Activity,start a Service,deliver a Broadcast</string>
+</resources>
